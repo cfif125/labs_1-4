@@ -1,0 +1,7 @@
+﻿  MathOperations2.cpp
+C:\Users\HP\source\repos\ЛР2_модуль2_БронскаяМВ\ЛР2_модуль2_БронскаяМВ\MathOperations2.cpp(354,33): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\ЛР2_модуль2_БронскаяМВ\ЛР2_модуль2_БронскаяМВ\MathOperations2.cpp(315,12): warning C4101: abs_val: неиспользованная локальная переменная
+C:\Users\HP\source\repos\ЛР2_модуль2_БронскаяМВ\ЛР2_модуль2_БронскаяМВ\MathOperations2.cpp(319,12): warning C4101: temp: неиспользованная локальная переменная
+C:\Users\HP\source\repos\ЛР2_модуль2_БронскаяМВ\ЛР2_модуль2_БронскаяМВ\MathOperations2.cpp(394,33): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\ЛР2_модуль2_БронскаяМВ\ЛР2_модуль2_БронскаяМВ\MathOperations2.cpp(433,33): warning C4018: <: несоответствие типов со знаком и без знака
+  ЛР2_модуль2_БронскаяМВ.vcxproj -> C:\Users\HP\source\repos\ЛР2_модуль2_БронскаяМВ\Debug\ЛР2_модуль2_БронскаяМВ.exe
